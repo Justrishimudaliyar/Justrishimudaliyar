@@ -43,6 +43,7 @@ and I am a developer, to make all of this happen!
 
 <br/>
 
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 [![Rishikesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=justrishimudaliyar&theme=react-dark)](https://github.com/justrishimudaliyar/github-readme-activity-graph)
 <br/>
 
