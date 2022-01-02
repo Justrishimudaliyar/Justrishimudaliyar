@@ -43,18 +43,10 @@ and I am a developer, to make all of this happen!
 ## Snake eating up my work :3
 ![snake gif](https://github.com/justrishimudaliyar/justrishimudaliyar/blob/output/github-contribution-grid-snake.svg)
 
-
-[![Rishikesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=justrishimudaliyar&theme=react-dark)](https://github.com/justrishimudaliyar/github-readme-activity-graph)
-<br/>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=justrishimudaliyar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=highcontrast" alt="Rishikesh's Github Stats"> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justrishimudaliyar&theme=highcontrast" alt="justrishimudaliyar" /></p> 
   
 <p>&nbsp;<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=justrishimudaliyar&show_icons=true&locale=en&theme=highcontrast" alt="justrishimudaliyar" /></p> 
-
-</br>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ihpllf6jnx7p0zvo834az3to1&cover_image=false&theme=default&bar_color_cover=false&bar_color=51a64e)](https://github.com/kittinan/spotify-github-profile)
 
 </br>
 
@@ -71,6 +63,9 @@ and I am a developer, to make all of this happen!
 <a href="https://medium.com/@rishimud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rishimud" height="30" width="40" /></a>
 </p>
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307FF00&multiline=true&lines=Thank+you+for+visiting!+;Let's+collaborate+soon!)](https://git.io/typing-svg)
+<br/>
 
 
  
