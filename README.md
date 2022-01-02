@@ -54,7 +54,6 @@ and I am a developer, to make all of this happen!
 
 </br>
 
-
 ## Humour is my self defense mechanism!
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>
