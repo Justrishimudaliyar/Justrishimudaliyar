@@ -13,7 +13,23 @@
 - 📄 Resume is here [Click me!](https://drive.google.com/file/d/1i2CEGB79C3lJLtonJqBthVAWibyWJo8k/view?usp=sharing)
 
 - ⚡ Fun fact **Assassin’s Creed was a Prince of Persia Spinoff**
+<br/>
 
+| Project Name      | Description | 
+| :---:        |    :----   |  
+| [Snake 2D](https://github.com/Justrishimudaliyar/CO-OP-Snake-2D-game)   | 2D snake game with powerups.
+| [Escape the reality](https://github.com/Justrishimudaliyar/EscapeReality)     | Endless runner game with calculated obstacles.
+| [Platformer](https://github.com/Justrishimudaliyar/2D-Platformer-Game)     | 2D platformer game built using unity engine. 
+| [Erasium C++](https://github.com/Justrishimudaliyar/Erasium-TextBasedRPG)     | Text based RPG adventure game created using c++.
+| [Connect4 C++](https://replit.com/@Justrishi/Connect4-C#main.cpp)     | Text based RPG adventure game created using c++.
+| [Minesweeper C++](https://replit.com/@Justrishi/Minesweeper#main.cpp)     | Text based RPG adventure game created using c++.
+| [DragonBall C++](https://replit.com/@Justrishi/DragonBallC#main.cpp)     | Text based RPG adventure game created using c++.
+| [Terra and Tiny VR](https://www.youtube.com/watch?v=1HNa9v9IQNI&list=PLzsKTF1SbSLNzDn2bGp7yu0U2z50sFlnj)     | Games created as a part of the final year project. 
+
+<br/>
+
+[![Rishikesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=justrishimudaliyar&theme=react-dark)](https://github.com/justrishimudaliyar/github-readme-activity-graph)
+<br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/junglee_rcm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junglee_rcm" height="30" width="40" /></a>
@@ -25,10 +41,13 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justrishimudaliyar&show_icons=true&locale=en&layout=compact" alt="justrishimudaliyar" /></p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=justrishimudaliyar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rishikesh's Github Stats">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justrishimudaliyar&" alt="justrishimudaliyar" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justrishimudaliyar&show_icons=true&locale=en" alt="justrishimudaliyar" /></p>
+<p>&nbsp;<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=justrishimudaliyar&show_icons=true&locale=en" alt="justrishimudaliyar" /></p>
 
 </br>
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+ 
