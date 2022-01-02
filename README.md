@@ -3,6 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=justrishimudaliyar&label=Profile%20views&color=0e75b6&style=flat" alt="justrishimudaliyar" /> </p>
 
+I am a multipotentialite. I have different passions that mix together to create something risky, to create something awesome. As far as my passion is concerned. definetely not swayed away by buzzwords like NFT and Metaverse. But here to bring about a change in delivering education through games. 
+For I am a gamer, a recon specialist to find the problems, 
+for I am a mage to use spells and potions to buff up strength and mana 
+and I am a developer, to make all of this happen!
+
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
 - 🔭 I’m currently working on [Battle Tank 3d](https://github.com/Justrishimudaliyar/battle-tank-game)
 - 🌱 Trying to learn **game development and how to make sense out of it!**
 - 👯 Call me to work on **anything that makes education and games go weeeeeee**
@@ -11,8 +18,7 @@
 - 💬 Ask me about **Games, C++, C#, Unity, game design philosophy, anime, marvel**
 - 📫 How to reach me **rishimud@gmail.com**
 - 📄 Resume is here [Click me!](https://drive.google.com/file/d/1i2CEGB79C3lJLtonJqBthVAWibyWJo8k/view?usp=sharing)
-
-- ⚡ Fun fact **Assassin’s Creed was a Prince of Persia Spinoff**
+- ⚡ My quote to you is, If your path has a lot of enemies, you are heading towards the next level!
 <br/>
 
 | Project Name      | Description | 
