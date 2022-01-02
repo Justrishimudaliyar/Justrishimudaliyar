@@ -21,7 +21,7 @@ and I am a developer, to make all of this happen!
 - ⚡ My quote to you is, If your path has a lot of enemies, you are heading towards the next level!
 <br/>
 
-<img align= "right" width= "240" src= "https://github.com/Justrishimudaliyar/Justrishimudaliyar/blob/output/codethecool.gif"/>
+<img align= "right" width= "360" src= "https://github.com/Justrishimudaliyar/Justrishimudaliyar/blob/output/codethecool.gif"/>
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
@@ -47,10 +47,10 @@ and I am a developer, to make all of this happen!
 [![Rishikesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=justrishimudaliyar&theme=react-dark)](https://github.com/justrishimudaliyar/github-readme-activity-graph)
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=justrishimudaliyar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark" alt="Rishikesh's Github Stats"> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justrishimudaliyar&theme=dark" alt="justrishimudaliyar" /></p> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=justrishimudaliyar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=highcontrast" alt="Rishikesh's Github Stats"> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justrishimudaliyar&theme=highcontrast" alt="justrishimudaliyar" /></p> 
   
-<p>&nbsp;<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=justrishimudaliyar&show_icons=true&locale=en&theme=dark" alt="justrishimudaliyar" /></p> 
+<p>&nbsp;<td><img align="right" src="https://github-readme-stats.vercel.app/api?username=justrishimudaliyar&show_icons=true&locale=en&theme=highcontrast" alt="justrishimudaliyar" /></p> 
 
 </br>
 
