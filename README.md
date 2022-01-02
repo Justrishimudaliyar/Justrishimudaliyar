@@ -54,6 +54,10 @@ and I am a developer, to make all of this happen!
 
 </br>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ihpllf6jnx7p0zvo834az3to1&cover_image=false&theme=default&bar_color_cover=false&bar_color=51a64e)](https://github.com/kittinan/spotify-github-profile)
+
+</br>
+
 ## Humour is my self defense mechanism!
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>
