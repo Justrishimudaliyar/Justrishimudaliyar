@@ -21,9 +21,7 @@ and I am a developer, to make all of this happen!
 - ⚡ My quote to you is, If your path has a lot of enemies, you are heading towards the next level!
 <br/>
 
-<img align= "right" width= "320" src= "https://github.com/Justrishimudaliyar/Justrishimudaliyar/blob/output/codethecool.gif"/>
-
-<br/>
+<img align= "right" width= "240" src= "https://github.com/Justrishimudaliyar/Justrishimudaliyar/blob/output/codethecool.gif"/>
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
