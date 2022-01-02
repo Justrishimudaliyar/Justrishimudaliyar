@@ -53,8 +53,11 @@ and I am a developer, to make all of this happen!
 
 </br>
 
+
 ## Humour is my self defense mechanism!
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+</div>
+
 
 <h3 align="center"> Let's have a cup of tea under the stars, or links below are also cool!:</h3>
 <p align="center">
