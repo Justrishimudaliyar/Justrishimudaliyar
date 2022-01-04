@@ -17,7 +17,7 @@ and I am a developer, to make all of this happen!
 - 👨‍💻 All of my projects are available at [https://github.com/Justrishimudaliyar](https://github.com/Justrishimudaliyar)
 - 💬 Ask me about **Games, C++, C#, Unity, game design philosophy, anime, marvel**
 - 📫 How to reach me **rishimud@gmail.com**
-- 📄 Resume is here [Click me!](https://drive.google.com/file/d/1i2CEGB79C3lJLtonJqBthVAWibyWJo8k/view?usp=sharing)
+- 📄 Resume is here [Click me!](https://drive.google.com/file/d/14aOp0g5kX-zZ5Rm80aJNAL-a6tfw_4ow/view?usp=sharing)
 - ⚡ My quote to you is, If your path has a lot of enemies, you are heading towards the next level!
 <br/>
 
