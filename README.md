@@ -10,7 +10,7 @@ and I am a developer, to make all of this happen!
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-- 🔭 I’m currently working on [Battle Tank 3d](https://github.com/Justrishimudaliyar/battle-tank-game)
+- 🔭 I’m currently working on [Clash Royale Chest System](https://github.com/Justrishimudaliyar/ClashRoyaleChestSystem)
 - 🌱 Trying to learn **game development and how to make sense out of it!**
 - 👯 Call me to work on **anything that makes education and games go weeeeeee**
 - 🤝 I’m looking for help with **Improvising in game development**
@@ -21,10 +21,9 @@ and I am a developer, to make all of this happen!
 - ⚡ My quote to you is, If your path has a lot of enemies, you are heading towards the next level!
 <br/>
 
-<img align= "right" width= "240" src= "https://github.com/Justrishimudaliyar/Justrishimudaliyar/blob/output/codethecool.gif"/>
-
 | Project Name      | Description | 
 | :---:        |    :----   |  
+| [Battle Tank 3D](https://github.com/Justrishimudaliyar/battle-tank-game)   | 3D Battle Tank game based on MVC Architecture.
 | [Snake 2D](https://github.com/Justrishimudaliyar/CO-OP-Snake-2D-game)   | 2D snake game with powerups.
 | [Escape the reality](https://github.com/Justrishimudaliyar/EscapeReality)     | Endless runner game with calculated obstacles.
 | [Platformer](https://github.com/Justrishimudaliyar/2D-Platformer-Game)     | 2D platformer game built using unity engine. 
